@@ -75,7 +75,7 @@ public class Ej7 {
 		scanner.nextLine(); // Limpiar buffer
 
 		clientes.add(new Cliente(dni, nombre, fechaNacimiento, saldo));
-		System.out.println("✅ Cliente agregado correctamente.");
+		System.out.println("✅ Cliente agregado correctamente. ✅");
 	}
 
 	// Baja de cliente
