@@ -1,0 +1,4 @@
+DNI;Nombre Completo;Fecha de Nacimiento;Saldo
+12345678A;Juan Pérez;1985-06-10;2500.50
+87654321B;Ana Rodríguez;1990-09-22;3750.75
+56789012C;Carlos García;1988-03-15;1250.25

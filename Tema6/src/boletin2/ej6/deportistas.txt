@@ -1,0 +1,11 @@
+Nombre Edad Peso Estatura
+Juan Pérez 30 75 1.80
+Ana Rodríguez 25 60 1.70
+Carlos García 35 85 1.85
+María López 28 65 1.75
+Luis Fernández 40 90 1.90
+Sofía Martínez 22 55 1.68
+Pedro Sánchez 31 78 1.82
+Elena Gutiérrez 27 62 1.72
+Andrés Ramírez 34 83 1.88
+Valeria Torres 29 68 1.76
